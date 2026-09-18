@@ -574,9 +574,6 @@ https://olumideolugotun.journoportfolio.com/
 
 https://www.linkedin.com/in/olumide-olugotun-2b728381/
 
-## GitHub
-
-https://github.com/Olumide-ship-it
 
 ---
 
