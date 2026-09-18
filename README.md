@@ -1,500 +1,636 @@
 # Olumide Olugotun
 
-## AI Operations | Growth Marketing | Executive Operations | Digital & Research Operations
+### AI Operations | Growth Marketing | Executive Operations | Digital & Research Operations
 
-I am a multidisciplinary professional working across **AI operations, LLM evaluation, data annotation, growth marketing, marketing operations, executive operations, research, content, and digital systems**.
+I work across AI operations, digital growth, marketing operations, executive operations, research, content, and quality-focused workflows.
 
-My work combines structured analysis, human judgment, research, communication, workflow design, quality control, and execution across distributed and remote environments.
+My experience combines structured AI evaluation and training work with practical experience building marketing systems, managing digital operations, conducting research, producing content, and supporting business growth.
 
-This repository serves as the **master documentation and evidence hub for my professional work**. It brings together selected experience, projects, case studies, work samples, professional documentation, and links to my dedicated portfolios.
-
----
-
-# Professional Focus
-
-## AI Operations & AI Quality
-
-- LLM response evaluation
-- AI-generated content assessment
-- Factuality verification
-- Reasoning-quality assessment
-- Instruction-adherence evaluation
-- Response comparison and ranking
-- Hallucination and inconsistency detection
-- Human-in-the-Loop quality workflows
-- AI data annotation
-- Document annotation
-- Data classification and metadata extraction
-- Multimodal AI evaluation
-- Structured evaluator feedback
-- AI quality assurance
-- AI red teaming
-- AI agent security assessment
-- Tool-use evaluation
-- Function-calling and structured JSON evaluation
-- Multi-turn conversation evaluation
-- Research and fact-checking for AI systems
+This repository serves as a central record of my professional experience, selected projects, case studies, documentation, and portfolio evidence.
 
 ---
 
-## Growth Marketing & Marketing Operations
+## Professional Focus
 
-- B2B growth strategy
-- Marketing operations
-- ICP and buyer research
-- Positioning and messaging
-- Content strategy
-- SEO
-- Organic visibility
-- Social media operations
-- Campaign planning and execution
-- Lead-generation communication
-- Funnel development
-- Conversion-focused messaging
-- Performance reporting
-- Marketing workflow design
-- Campaign documentation
-- Team coordination
-- Execution oversight
+- AI Operations & AI Training
+- LLM Evaluation & Quality Assurance
+- Multimodal AI Evaluation
+- Data Annotation & AI Data Preparation
+- AI Red Teaming & Model Testing
+- Growth Marketing
+- B2B Digital Marketing
+- Marketing Operations
+- SEO & Content Strategy
+- Executive & Business Operations
+- Research & Information Verification
+- Editorial & Digital Content
+- Workflow Design & Process Documentation
+- Quality Assurance & Structured Evaluation
 
 ---
 
-## Executive & Digital Operations
-
-- Project coordination
-- Workflow architecture
-- Process documentation
-- Operational reporting
-- Stakeholder communication
-- Research and analysis
-- Cross-functional coordination
-- Digital systems
-- Productivity workflows
-- Quality assurance
-- Execution management
-- Documentation and reporting systems
-
----
-
-## Writing, Research & Editorial
-
-- SEO content
-- Long-form writing
-- Copywriting
-- Copy editing
-- Editorial review
-- Digital storytelling
-- Technology writing
-- Business writing
-- Education content
-- Research
-- Fact-checking
-- Social-impact communications
-- Content strategy
-
----
-
-## Creative & Multimedia
-
-- Creative content development
-- Visual communication
-- Social media creative
-- Digital content production
-- Video and multimedia work
-- Presentation design
-- Creative campaign assets
-- Digital portfolio development
-- Content asset management
-
----
-
-# Current Professional Work
-
-## Heunets
-
-**Digital Marketing Specialist**
-
-Current work spans B2B marketing strategy, buyer-focused positioning, SEO, content, social channels, campaign operations, research, reporting, workflow development, and coordination across marketing execution.
-
-Selected areas of responsibility include:
-
-- Developing and implementing B2B marketing strategy
-- Translating enterprise IT services into buyer-focused messaging
-- Managing company and executive LinkedIn content
-- Coordinating digital acquisition channels
-- Developing content and campaign briefs
-- Creating marketing processes and reporting structures
-- Establishing execution and accountability workflows
-- Coordinating contributors and reviewing execution quality
-- Connecting marketing activities with discovery-call and pipeline objectives
-- Reporting progress, findings, and dependencies to management
-- Supporting the development of a structured B2B growth operation
-
----
+# Current Professional Experience
 
 ## WorkRobin
 
-**Marketing Operations & Growth Strategist**
+### Marketing Operations & Growth Strategist
 
-Current work spans B2B positioning, campaign messaging, audience research, content systems, lead-generation communication, marketing operations, campaign planning, stakeholder review, and performance analysis for a contractor-operations platform.
+**2025 - Present**
 
-Selected areas of responsibility include:
+Work across marketing operations, B2B growth, content strategy, campaign planning, research, workflow development, performance tracking, and reporting.
 
-- B2B positioning and messaging
-- ICP and buyer research
+### Areas of Work
+
+- B2B marketing strategy
+- Growth marketing
+- Content planning and production
+- LinkedIn strategy
 - Campaign planning
-- Content strategy and execution systems
-- LinkedIn content development
-- Lead-generation communication
-- Landing-page and conversion messaging
-- Marketing workflow coordination
-- Campaign documentation
+- Marketing operations
+- Buyer-focused messaging
+- Research and market analysis
+- Workflow development
 - Performance tracking
-- Marketing reporting
-- Stakeholder review and execution coordination
+- Reporting and documentation
+- Lead-generation processes
+- Content-to-conversation workflows
 
 ---
 
-# AI & Data Experience
+## Heunets
+
+### Digital Marketing Specialist
+
+**August 2025 - Present**
+
+Work across digital marketing, B2B growth, SEO, content, social media, research, campaign operations, reporting, and marketing systems.
+
+My work includes developing and executing marketing processes, creating buyer-focused content, supporting executive and company LinkedIn presence, coordinating digital channels, documenting workflows, and connecting marketing activity to business-development objectives.
+
+### Areas of Work
+
+- B2B digital marketing
+- Growth strategy
+- SEO
+- Content strategy
+- LinkedIn management
+- Executive social media support
+- Marketing operations
+- Campaign planning
+- Buyer-focused messaging
+- Research
+- Reporting
+- Workflow documentation
+- Marketing process development
+- Performance tracking
+
+---
+
+# AI Operations & AI Training
+
+My AI operations experience covers evaluation, annotation, quality assurance, human-in-the-loop workflows, multimodal data work, structured feedback, and AI training.
+
+## Core AI Capabilities
+
+- LLM response evaluation
+- AI-generated content evaluation
+- Instruction-following assessment
+- Factuality checking
+- Reasoning assessment
+- Response ranking and comparison
+- Hallucination detection
+- Consistency checking
+- Human-in-the-loop evaluation
+- Function-calling evaluation
+- Tool-use evaluation
+- Data annotation
+- Document annotation
+- Image annotation
+- Video annotation
+- Audio evaluation
+- Multimodal AI evaluation
+- Creative-output evaluation
+- AI quality assurance
+- Structured evaluator feedback
+- AI red teaming
+- Model-improvement support
+
+---
+
+# AI Experience
 
 ## Turing
 
-**AI Content Specialist / LLM Data & Quality Work**
+### AI Content Specialist | LLM Data Trainer
 
-**Completed: August 2026**
+**November 2024 - August 2026**
 
-Worked on AI evaluation and Human-in-the-Loop workflows involving:
+Worked on AI evaluation and training workflows involving the assessment of AI-generated responses and system behavior.
 
-- AI-generated response evaluation
-- Factuality verification
-- Reasoning-quality assessment
-- Instruction adherence
-- Response comparison and ranking
-- Hallucination detection
-- Inconsistency detection
-- Formatting and factual-error review
-- Task-completion assessment
-- Structured evaluator feedback
-- Multi-turn conversation evaluation
-- Tool-selection evaluation
-- Function-call evaluation
-- JSON/function-calling workflows
-- Logical-flow assessment
-- Research and information verification
+### Work included
 
-The work required structured judgment against defined evaluation criteria and consistent documentation of findings.
+- Evaluating AI-generated responses
+- Checking factuality and consistency
+- Assessing reasoning quality
+- Evaluating instruction adherence
+- Comparing and ranking responses
+- Identifying hallucinations and factual errors
+- Reviewing formatting and response quality
+- Providing structured feedback
+- Supporting human-in-the-loop AI evaluation
+- Evaluating tool use and function-calling workflows
+- Reviewing multi-turn conversations
+- Assessing task completion and logical flow
 
 ---
 
 ## Project Lime / SME Careers
 
-**Data Annotation / Document Annotation Contributor**
+### AI Data Annotator | Document Annotation Contributor
 
-**Completed: August 2026**
+**June 2026 - August 2026**
 
-Project Lime involved structured document annotation and AI data preparation workflows.
+Worked on structured document annotation and AI data-preparation workflows.
 
-Selected work included:
+### Work included
 
-- Successfully completing the Project Lime qualification bootcamp
-- Advancing into production onboarding
-- Performing structured annotation and data-review tasks
-- Using SuperAnnotate for task delivery
-- Applying detailed annotation guidelines
-- Maintaining annotation accuracy and consistency
-- Contributing to document analysis and classification
-- Supporting metadata extraction workflows
-- Contributing to AI training data preparation
-- Using Insightful for time tracking and productivity reporting
-- Collaborating through Discord in a distributed project environment
+- Document annotation
+- Data classification
+- Metadata extraction
+- Structured labeling
+- Following detailed annotation guidelines
+- Quality-focused annotation
+- Reviewing documents for required fields and classifications
+- Working within structured production workflows
+
+### Tools
+
+- SuperAnnotate
+- Insightful
+- Discord
 
 ---
 
-## AstraBright
+## AstraBright Analytics & Knowledge Alliance
 
-**Generalist AI Trainer / AI Trainer Consultant**
+### Generalist AI Trainer / AI Trainer Consultant
 
 **Project-Based Engagement**
 
-Worked across AI training workflows involving:
+Worked as a Generalist AI Trainer across multiple AI training and evaluation modalities.
+
+### Modalities
 
 - Image
 - Video
 - Audio
 - Text
 
-The engagement included annotation, quality requirements, approved time tracking, calibration and training activities, issue reporting, workflow feedback, and activities supporting AI model improvement.
+### Responsibilities included
+
+- Annotating datasets across multiple modalities
+- Following project-specific guidelines
+- Maintaining quality standards
+- Working within specified handling-time requirements
+- Participating in training and calibration sessions
+- Reporting inconsistencies and technical issues
+- Providing workflow and guideline feedback
+- Supporting AI training and model-improvement objectives
+- Maintaining confidentiality and data-privacy requirements
+- Completing assigned AI interaction and evaluation tasks
 
 ---
 
-## Andovar
+## CreativeTrace
 
-**Synthetic Media Consultant**
+### Production Study | AI Evaluation & Quality Review
 
-**December 2025 - January 2026**
+**Completed**
 
-Completed project-based work within a synthetic-media and AI-focused production environment.
+Participated in a structured production study involving assigned task bundles, evaluation of creative outputs, and evidence-based judgments.
+
+The work emphasized the ability to explain both **what** was selected or preferred and **why**, using specific evidence rather than generic reactions.
+
+### Skills Demonstrated
+
+- AI evaluation
+- Creative-output evaluation
+- Visual quality assessment
+- Preference evaluation
+- Evidence-based reasoning
+- Instruction following
+- Quality control
+- Structured feedback
+- Multimodal evaluation
 
 ---
 
-# AI Red Teaming
+## ARKX
 
-## ARKX AI Agent Security Assessment
-
-**BLEND AI Red-Team Practical Assessment**
+### AI Red-Team Assessment / Practical Project
 
 **September 2026**
 
-Completed a practical AI red-team assessment for the ARKX AI Agent Security CTF through BLEND.
+Completed a practical AI red-team assessment involving structured testing and reporting of model behavior.
 
-The assessment involved structured testing and reporting across multiple tasks.
+### Work included
 
-The completed submission was reviewed by the client and marked **passed**, followed by onboarding progression.
+- Testing AI behavior against defined scenarios
+- Identifying problematic model outputs
+- Documenting findings
+- Following structured testing instructions
+- Producing a written assessment
+- Reviewing model behavior from an adversarial testing perspective
 
-### Assessment Documentation
-
-The public repository will contain sanitized documentation describing:
-
-- Assessment context
-- Testing methodology
-- Selected findings
-- Security observations
-- Reasoning behind findings
-- Reporting approach
-- Lessons from the assessment
-
-Private credentials, client-private information, sensitive payloads, proprietary instructions, and restricted platform information will not be published.
+The practical assessment was reviewed by the client and marked as passed.
 
 ---
 
-# Marketing, Growth & Communications Experience
+# Marketing & Growth
 
-My marketing and communications experience spans B2B marketing, SEO, content strategy, social media, lead generation, digital communications, research, campaign execution, and performance reporting.
+My marketing experience spans strategy, content, SEO, social media, lead generation, research, campaign operations, and marketing systems.
 
-## Selected Experience
+## Core Areas
 
-### Heunets
-B2B digital marketing, growth strategy, marketing operations, content systems, buyer-focused messaging, social channels, reporting, and execution coordination.
-
-### WorkRobin
-B2B growth, positioning, marketing operations, campaign planning, content systems, audience research, lead-generation communication, and performance tracking.
-
-### M&D Hotel Suites
-Digital marketing, social lead generation, inquiry management, booking workflows, content planning, engagement, and conversion tracking.
-
-### Smart Partners Consulting
-Digital advertising, audience segmentation, A/B testing, creative refinement, exclusion targeting, and campaign optimization.
-
-### Nostalitech
-SEO research, keyword-gap analysis, search-intent research, metadata optimization, page structure review, and content relevance.
-
-### Hec Recruit
-Lead marketing, customer database management, outreach lists, direct-marketing campaigns, content coordination, team onboarding, and administrative workflows.
-
-### Abeyie Digital Business
-Content writing, social media management, digital campaign execution, publishing, engagement, and performance review.
-
-### Injustice Is Real
-Communications strategy, newsletters, content development, campaign communication, stakeholder outreach, and reporting.
-
-### Geeky Nigeria
-Research, writing, editing, and publishing across technology, digital marketing, education, SEO, and online visibility.
+- B2B marketing
+- Growth marketing
+- Digital marketing
+- Marketing operations
+- SEO
+- Content strategy
+- Social media strategy
+- LinkedIn marketing
+- Lead generation
+- Campaign planning
+- Buyer research
+- Market research
+- Content funnels
+- Performance reporting
+- Marketing workflow design
+- Executive social media
+- Digital communications
 
 ---
 
-# Writing & Editorial Portfolio
+# Selected Marketing Experience
 
-My writing and editorial work includes long-form content, SEO writing, research, copy editing, digital storytelling, technology content, education content, and social-impact communications.
+## M&D Hotel Suites
+
+### Digital Marketing Specialist
+
+**Contract**
+
+Managed digital marketing activities with a strong focus on Instagram content, audience engagement, inquiries, and booking conversion.
+
+### Work included
+
+- Content planning
+- Content creation
+- Instagram management
+- Audience engagement
+- Direct-message management
+- Booking inquiry handling
+- Lead tracking
+- Digital communication
+- Performance monitoring
+
+The work included converting qualified Instagram inquiries into confirmed bookings.
+
+---
+
+## Nostalitech
+
+### SEO Specialist
+
+**Contract**
+
+Worked on SEO research and content optimization.
+
+### Work included
+
+- Keyword-gap analysis
+- Search-intent research
+- Metadata optimization
+- Content optimization
+- SEO research
+- Editorial planning
+
+---
+
+## Smart Partners Consulting
+
+### Digital Ads Specialist
+
+**Contract**
+
+Worked on digital advertising and campaign performance.
+
+### Areas included
+
+- Campaign setup
+- Digital advertising
+- Audience targeting
+- Campaign monitoring
+- Performance analysis
+- Lead-cost analysis
+
+---
+
+## Speak Your Power Now
+
+### Social Media Virtual Assistant
+
+Supported digital communications and social media operations.
+
+### Work included
+
+- Content planning
+- Content creation
+- Publishing
+- Audience engagement
+- Short-form video editing
+- Trend monitoring
+- Content calendars
+- Digital asset management
+- Website and e-commerce support
+
+---
+
+# Writing & Research
+
+I also have experience in SEO writing, copy editing, journalism, editorial work, digital storytelling, research, and communications.
+
+My published work covers technology, education, lifestyle, social impact, digital culture, and other editorial subjects.
+
+## Writing Capabilities
+
+- SEO content writing
+- Long-form articles
+- Copy editing
+- Proofreading
+- Brand storytelling
+- Research
+- Editorial planning
+- Digital storytelling
+- Social media writing
+- Content strategy
+- Information verification
 
 ## Writing Portfolio
 
-[Visit my Writing, SEO & Editorial Portfolio](https://olumideolugotun.journoportfolio.com/)
+Full writing portfolio:
 
-The portfolio contains published work across technology, education, digital marketing, online visibility, and social-impact topics.
-
----
-
-# Creative Portfolio
-
-My creative work covers visual communication, social media assets, multimedia content, presentation-focused work, and digital creative projects.
-
-## Creative Showcase
-
-[View Creative Showcase](https://olumide-creative-showcase.lovable.app)
-
-## Canva Portfolio
-
-[View Canva Portfolio](https://olumideolugotunportfolio.my.canva.site/i-m-mide)
+https://olumideolugotun.journoportfolio.com/
 
 ---
 
-# Professional Portfolio Network
+# Executive & Business Operations
 
-This GitHub repository is the central documentation and evidence hub.
+My operations work focuses on organizing complex workflows, documenting processes, coordinating work, tracking execution, and connecting operational activity to business objectives.
 
-The dedicated portfolios below provide specialized presentations of different areas of my professional work.
+## Areas
 
-### Executive Operations & AI Portfolio
-
-[Visit Executive Operations & AI Portfolio](https://olumide-executive-operations-portfolio.lovable.app)
-
-Focus:
 - Executive operations
-- AI operations
 - Business operations
-- Systems
-- Workflow design
-- Professional case studies
+- Workflow management
+- Process documentation
+- Project coordination
+- Task management
+- Reporting
+- Research
+- Operational planning
+- Team coordination
+- Accountability systems
+- Marketing operations
+- Digital operations
 
-### Digital Marketing & Content Portfolio
+---
 
-[Visit Digital Marketing & Content Portfolio](https://digital-content-specialist.lovable.app)
+# Creative & Digital Production
 
-Focus:
-- Digital marketing
-- SEO
-- Content
-- Growth
-- Social media
-- Campaigns
-- Digital communications
+My work also includes visual and multimedia production supporting digital marketing, AI workflows, and communications.
 
-### Creative Showcase
+## Areas
 
-[Visit Creative Showcase](https://olumide-creative-showcase.lovable.app)
-
-Focus:
-- Creative work
-- Visual communication
-- Multimedia
-- Digital content
-
-### Canva Portfolio
-
-[Visit Canva Portfolio](https://olumideolugotunportfolio.my.canva.site/i-m-mide)
-
-### Writing, SEO & Editorial Portfolio
-
-[Visit JournoPortfolio](https://olumideolugotun.journoportfolio.com)
-
-### LinkedIn
-
-[Visit LinkedIn](https://www.linkedin.com/in/olumide-olugotun-2b728381/)
+- Visual content
+- Social media creative
+- Video editing
+- AI-assisted creative workflows
+- Digital content production
+- Presentation design
+- Content repurposing
+- Multimedia evaluation
 
 ---
 
 # Selected Projects
 
-The repository will document selected projects across AI, marketing, operations, research, content, and creative work.
+## Multimodal AI Creation & Evaluation
 
-## AI Projects
+A project demonstrating a structured AI-assisted creative workflow involving:
 
-- LLM response evaluation
-- AI content quality assessment
-- Document annotation
-- Multimodal AI training
-- AI quality assurance
-- ARKX AI agent security assessment
-- Tool-use and function-calling evaluation
-
-## Marketing & Growth Projects
-
-- B2B growth strategy
-- ICP and buyer research
-- Marketing operations systems
-- Content strategy
-- SEO projects
-- Lead-generation workflows
-- Social media campaigns
-- Marketing reporting systems
-
-## Operations Projects
-
-- Workflow architecture
-- Process documentation
-- Project coordination
-- Reporting systems
-- Digital operations
-- Team execution systems
-
-## Writing & Research Projects
-
-- SEO content
-- Technology articles
-- Editorial projects
-- Social-impact communications
-- Research-driven content
+1. Initial creative concept
+2. Visual reference / sketch
+3. Prompt construction
+4. AI image generation
+5. Output review
+6. Evaluation against the original intent
+7. Final submission
 
 ---
 
-# Repository Structure
+## AI Red-Team Assessment
 
-The repository is organized so that recruiters, hiring teams, clients, and collaborators can move from a high-level professional overview into detailed experience, projects, case studies, and evidence.
+A practical AI testing project involving structured model testing, identification of problematic outputs, documentation, and final reporting.
 
-```text
-olumide-portfolio/
-│
-├── README.md
-│
-├── ABOUT/
-│   ├── professional-profile.md
-│   ├── career-overview.md
-│   └── capabilities.md
-│
-├── EXPERIENCE/
-│   ├── current/
-│   │   ├── heunets.md
-│   │   └── workrobin.md
-│   │
-│   └── completed/
-│       ├── turing.md
-│       ├── project-lime.md
-│       ├── astrabright.md
-│       ├── andovar.md
-│       └── speak-your-power-now.md
-│
-├── AI-OPERATIONS/
-│   ├── llm-evaluation/
-│   ├── data-annotation/
-│   ├── multimodal-ai/
-│   ├── ai-qa/
-│   └── ai-red-teaming/
-│
-├── MARKETING/
-│   ├── growth-marketing/
-│   ├── marketing-operations/
-│   ├── b2b-marketing/
-│   ├── seo/
-│   ├── content-strategy/
-│   ├── social-media/
-│   └── email-marketing/
-│
-├── CREATIVE/
-│   ├── visual-design/
-│   ├── multimedia/
-│   ├── video/
-│   └── creative-projects/
-│
-├── WRITING-RESEARCH/
-│   ├── published-work.md
-│   ├── seo-writing.md
-│   ├── editorial-work.md
-│   └── research.md
-│
-├── PROJECTS/
-│   ├── arkx-ai-red-team/
-│   ├── marketing-operations/
-│   ├── growth-marketing/
-│   ├── digital-operations/
-│   └── selected-case-studies/
-│
-├── EVIDENCE/
-│   ├── ai/
-│   ├── marketing/
-│   ├── creative/
-│   └── operations/
-│
-├── CERTIFICATIONS/
-│
-└── LINKS/
-    └── professional-portfolios.md
+---
+
+## B2B Marketing Operations
+
+A collection of marketing systems and workflows developed around:
+
+- Content strategy
+- Buyer research
+- LinkedIn activity
+- Campaign planning
+- Lead generation
+- Reporting
+- Performance tracking
+- Workflow management
+
+---
+
+## SEO & Content Strategy
+
+Selected work involving:
+
+- Keyword research
+- Search-intent analysis
+- Content planning
+- On-page SEO
+- Metadata optimization
+- Editorial review
+- Long-form content
+
+---
+
+# Tools & Platforms
+
+## AI & Data
+
+- ChatGPT
+- SuperAnnotate
+- CVAT
+- Labelbox
+- AI evaluation platforms
+- Data annotation platforms
+
+## Marketing & Analytics
+
+- Google Analytics
+- Google Search tools
+- Google Workspace
+- Microsoft Office
+- Excel
+- Google Sheets
+- Canva
+- Trello
+- Notion
+- Airtable
+
+## Collaboration
+
+- Slack
+- Discord
+- Google Workspace
+- Microsoft Teams
+
+## Creative
+
+- Canva
+- Adobe Photoshop
+- GIMP
+- Premiere Pro
+- Clipchamp
+
+---
+
+# Education
+
+## Obafemi Awolowo University
+
+### B.A. English Language
+
+**2012 - 2017**
+
+---
+
+## Iconic Open University
+
+### B.Sc. Mass Communication
+
+**In Progress**
+
+---
+
+# Certifications & Professional Development
+
+- EF SET English C2 Proficient
+- EF SET C1 Advanced
+- Career Essentials in Generative AI - Microsoft & LinkedIn
+- Build Your Generative AI Productivity Skills - Microsoft & LinkedIn
+- McKinsey Forward Program
+- English for IT 1 - Cisco
+- English for IT 2 - Cisco
+- Google Digital Garage
+- HubSpot certifications
+- Semrush training and certifications
+
+---
+
+# Professional Portfolio Links
+
+## Executive Operations & AI Portfolio
+
+https://olumide-executive-operations-portfolio.lovable.app/
+
+## Digital Marketing & Content Portfolio
+
+https://digital-content-specialist.lovable.app/
+
+## Creative Showcase
+
+https://olumide-creative-showcase.lovable.app/
+
+## Canva Portfolio
+
+https://olumideolugotunportfolio.my.canva.site/i-m-mide
+
+## Writing & Editorial Portfolio
+
+https://olumideolugotun.journoportfolio.com/
+
+## LinkedIn
+
+https://www.linkedin.com/in/olumide-olugotun-2b728381/
+
+## GitHub
+
+https://github.com/Olumide-ship-it
+
+---
+
+# Portfolio Evidence
+
+This repository is intended to contain sanitized professional evidence where disclosure is permitted.
+
+Evidence may include:
+
+- Case studies
+- Project documentation
+- Workflow documentation
+- AI evaluation examples
+- Annotation examples
+- Marketing work
+- SEO research
+- Content samples
+- Creative work
+- Screenshots
+- Project walkthroughs
+- Process documentation
+
+Confidential client information, credentials, private datasets, proprietary instructions, restricted task content, and other protected materials are excluded.
+
+---
+
+# How I Work
+
+My work generally follows a structured process:
+
+**Understand → Research → Plan → Execute → Review → Document → Improve**
+
+Depending on the project, this can involve:
+
+- Understanding the task or business objective
+- Researching the relevant information
+- Translating requirements into structured work
+- Executing the workflow
+- Reviewing the output against defined criteria
+- Documenting results
+- Identifying issues and improvement opportunities
+
+---
+
+# Contact
+
+**Email:** olugotunolumide@gmail.com
+
+For professional opportunities involving AI operations, AI training, data annotation, evaluation, digital marketing, marketing operations, research, content, or business operations, please connect through LinkedIn or email.
+
+---
+
+## Portfolio Status
+
+This repository is an evolving record of professional experience, projects, case studies, and supporting evidence.
+
+Last updated: September 2026
