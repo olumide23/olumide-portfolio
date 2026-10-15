@@ -246,6 +246,19 @@ The practical assessment was reviewed by the client and marked as passed.
 
 ---
 
+## AI Evaluation & Quality Case Studies
+
+- [AI Evaluation & Structured-Output Workflow](./projects/ai-evaluation-structured-output/README.md)
+- [AI Response Quality Assurance](./projects/ai-response-quality-assurance/README.md)
+- [Multimodal AI Data Annotation & Validation](./projects/multimodal-data-annotation/README.md)
+- [AI Red-Teaming & Security Evaluation](./projects/ai-red-teaming-assessment/README.md)
+- [Portfolio Evidence Guidelines](./projects/portfolio-evidence-guidelines/README.md)
+- [All Project Pages](./projects/README.md)
+
+**Evidence disclosure note:** Notebook screenshots supplied for this update are not yet published. They may contain confidential instructions or visible model reasoning, so only approved and sanitized evidence will be added.
+
+---
+
 # Marketing & Growth
 
 My marketing experience spans strategy, content, SEO, social media, lead generation, research, campaign operations, and marketing systems.
