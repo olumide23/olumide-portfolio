@@ -618,6 +618,16 @@ Depending on the project, this can involve:
 
 ---
 
+# AI Evaluation & Quality Portfolio Projects
+
+The following case studies document selected AI evaluation and structured workflow work. Public evidence is added only when it can be shared without exposing confidential instructions or protected material.
+
+- **[AI Evaluation & Structured-Output Workflow](./projects/ai-evaluation-structured-output/README.md)** — Google Colab notebook-based task instructions, structured data/output review, and evaluation workflow documentation.
+- **[Project Index](./projects/README.md)** — directory of project case studies and evidence-handling standards.
+
+> **Evidence note:** Some source screenshots may include private task prompts, restricted project details, or visible model reasoning. Raw screenshots are not published unless reviewed and redacted appropriately. Case-study claims are limited to what approved evidence supports.
+
+
 # Contact
 
 **Email:** olugotunolumide@gmail.com
