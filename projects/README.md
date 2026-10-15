@@ -8,6 +8,7 @@ This directory contains concise case studies describing selected AI evaluation, 
 - [AI Response Quality Assurance](./ai-response-quality-assurance/README.md)
 - [Multimodal AI Data Annotation & Validation](./multimodal-data-annotation/README.md)
 - [AI Red-Teaming & Security Evaluation](./ai-red-teaming-assessment/README.md)
+- [Google Colab Notebook Evidence Collection](./colab-notebook-evidence/README.md)
 - [Portfolio Evidence Guidelines](./portfolio-evidence-guidelines/README.md)
 
 ## Evidence and disclosure
