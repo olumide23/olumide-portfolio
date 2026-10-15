@@ -1,22 +1,19 @@
-# Selected Projects
+# Project Portfolio Index
 
-This directory contains project write-ups describing selected AI evaluation, annotation, quality assurance, and workflow work. Each case study should be supported by evidence that can be shared publicly.
+This directory contains concise case studies describing selected AI evaluation, data annotation, quality assurance, red-teaming, and structured workflow work. Descriptions distinguish general capability summaries from evidence tied to a specific task.
 
-## Available case study
+## AI Evaluation & Quality
 
-- [AI Evaluation and Structured-Output Workflow Evidence](./ai-evaluation-structured-output/README.md) — a cautious overview of Google Colab-based evaluation workflow material.
+- [AI Evaluation & Structured-Output Workflow](./ai-evaluation-structured-output/README.md)
+- [AI Response Quality Assurance](./ai-response-quality-assurance/README.md)
+- [Multimodal AI Data Annotation & Validation](./multimodal-data-annotation/README.md)
+- [AI Red-Teaming & Security Evaluation](./ai-red-teaming-assessment/README.md)
+- [Portfolio Evidence Guidelines](./portfolio-evidence-guidelines/README.md)
 
-## Evidence handling
+## Evidence and disclosure
 
-The original screenshots are not included in this public repository yet. Before adding screenshots, review them for confidential project instructions, private prompts, personal data, restricted task content, and visible model reasoning. Publish only evidence you are permitted to disclose, with sensitive areas redacted.
+The source Colab screenshots and PDF are not included in this public repository yet. They may contain private project prompts, proprietary task instructions, or visible model reasoning. Only reviewed and redacted evidence approved for disclosure should be published.
 
 ## Case-study standard
 
-Each project page should state:
-- The task or objective, when verified
-- Your role and contribution
-- The workflow, tools, or evaluation criteria used
-- What the available evidence demonstrates
-- Any limitations or confidentiality restrictions
-
-Do not publish client-sensitive materials or claim outcomes that are not supported by approved evidence.
+Each case study should state the task objective where verified, your contribution, the methods and tools used, what the evidence demonstrates, and any limitations. Do not infer scores, results, or ownership that the evidence does not establish.
